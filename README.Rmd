@@ -16,6 +16,10 @@ knitr::opts_chunk$set(
 # trellor
 
 <!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![CRAN status](https://www.r-pkg.org/badges/version/trellor)](https://CRAN.R-project.org/package=trellor)
+[![Codecov test coverage](https://codecov.io/gh/jonthegeek/trellor/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jonthegeek/trellor?branch=main)
+[![R-CMD-check](https://github.com/jonthegeek/trellor/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jonthegeek/trellor/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 A client to access the 'Trello' 'API'.
