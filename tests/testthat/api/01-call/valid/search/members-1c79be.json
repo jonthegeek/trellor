@@ -1,0 +1,41 @@
+[
+    {
+        "id": "54207b203d541b7c3605bd90",
+        "activityBlocked": false,
+        "avatarHash": "751afdf5e37426cfd54c8d584e4ab300",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/54207b203d541b7c3605bd90/751afdf5e37426cfd54c8d584e4ab300",
+        "fullName": "JonH",
+        "idMemberReferrer": null,
+        "initials": "J",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "jonthegeek",
+        "confirmed": true,
+        "email": "jonthegeek@gmail.com",
+        "idBoards": [
+            "54207b203d541b7c3605bd91",
+            "5407ab68a5285f0726236069",
+            "5422f50fe645cfc8b6e7e9fe",
+            "5ba95ddbd5c8a402e1195936",
+            "6525737b80e14ac6fa2caa9c"
+        ],
+        "idOrganizations": [
+            "60d3a7ad13df457a907e48e3"
+        ],
+        "prefs": {
+            "sendSummaries": true,
+            "minutesBetweenSummaries": 60,
+            "minutesBeforeDeadlineToNotify": 60,
+            "colorBlind": false,
+            "locale": "en-US",
+            "privacy": {
+                "fullName": "public",
+                "avatar": "public"
+            }
+        },
+        "similarity": 0.324,
+        "active": true
+    }
+]

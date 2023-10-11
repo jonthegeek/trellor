@@ -6,11 +6,18 @@ Authors@R:
            comment = c(ORCID = "0000-0003-4781-4346"))
 Description: A client to access the 'Trello' 'API'.
 License: MIT + file LICENSE
-URL: https://github.com/jonthegeek/trellor,
-    https://jonthegeek.github.io/trellor/
+URL: https://jonthegeek.github.io/trellor/,
+    https://github.com/jonthegeek/trellor
 BugReports: https://github.com/jonthegeek/trellor/issues
+Imports: 
+    nectar
 Suggests: 
+    beekeeper,
+    httptest2,
     testthat (>= 3.0.0)
+Remotes:
+    jonthegeek/beekeeper,
+    jonthegeek/nectar
 Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
