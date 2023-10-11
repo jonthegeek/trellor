@@ -11,8 +11,8 @@ A client to access the 'Trello' 'API'.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/jonthegeek/trellor}
   \item \url{https://jonthegeek.github.io/trellor/}
+  \item \url{https://github.com/jonthegeek/trellor}
   \item Report bugs at \url{https://github.com/jonthegeek/trellor/issues}
 }
 
